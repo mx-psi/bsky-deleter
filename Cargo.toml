@@ -1,0 +1,17 @@
+[package]
+name = "bsky-deleter"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+anyhow = "1.0.94"
+atrium-api = "0.24.9"
+bsky-sdk = {version = "0.1.14"}
+chrono = "0.4.39"
+clap = { version = "4.5.23", features = ["derive"] }
+config = "0.14.1"
+dialoguer = "0.11.0"
+duration-str = "0.11.3"
+ipld-core = "0.4.1"
+serde = { version = "1.0.216", features = ["derive"] }
+tokio = { version = "1.42.0", features = ["full"] }
