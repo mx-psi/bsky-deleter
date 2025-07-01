@@ -270,9 +270,9 @@ dependencies = [
 
 [[package]]
 name = "bsky-sdk"
-version = "0.1.14"
+version = "0.1.15"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "7637375b7309977caed8af4f877a7e8ccd6177695fe3b2dc587536904115ef29"
+checksum = "8cd5aa84390a6705d3a874f87f2dbf20b8405cb0278f4cd8311a2f8f83c0235f"
 dependencies = [
  "anyhow",
  "atrium-api",

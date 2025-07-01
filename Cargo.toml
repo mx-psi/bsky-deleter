@@ -6,7 +6,7 @@ edition = "2021"
 [dependencies]
 anyhow = "1.0.95"
 atrium-api = "0.24.10"
-bsky-sdk = {version = "0.1.14"}
+bsky-sdk = {version = "0.1.15"}
 chrono = "0.4.39"
 clap = { version = "4.5.39", features = ["derive"] }
 config = "0.15.7"
