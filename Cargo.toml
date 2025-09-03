@@ -10,7 +10,7 @@ bsky-sdk = {version = "0.1.15"}
 chrono = "0.4.39"
 clap = { version = "4.5.46", features = ["derive"] }
 config = "0.15.15"
-dialoguer = "0.11.0"
+dialoguer = "0.12.0"
 duration-str = "0.17.0"
 ipld-core = "0.4.1"
 serde = { version = "1.0.219", features = ["derive"] }
