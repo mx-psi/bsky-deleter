@@ -13,5 +13,5 @@ config = "0.15.15"
 dialoguer = "0.11.0"
 duration-str = "0.17.0"
 ipld-core = "0.4.1"
-serde = { version = "1.0.217", features = ["derive"] }
+serde = { version = "1.0.219", features = ["derive"] }
 tokio = { version = "1.47.1", features = ["full"] }
