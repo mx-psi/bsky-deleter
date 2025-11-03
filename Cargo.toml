@@ -9,7 +9,7 @@ atrium-api = "0.24.10"
 bsky-sdk = {version = "0.1.15"}
 chrono = "0.4.42"
 clap = { version = "4.5.51", features = ["derive"] }
-config = "0.15.15"
+config = "0.15.18"
 dialoguer = "0.12.0"
 duration-str = "0.17.0"
 ipld-core = "0.4.1"
