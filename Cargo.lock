@@ -534,9 +534,9 @@ dependencies = [
 
 [[package]]
 name = "duration-str"
-version = "0.17.0"
+version = "0.19.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "9add086174f60bcbcfde7175e71dcfd99da24dfd12f611d0faf74f4f26e15a06"
+checksum = "12494809f9915b6132014cc259c4e204ab53ab6c6dd2225672703b5359267d82"
 dependencies = [
  "chrono",
  "rust_decimal",
