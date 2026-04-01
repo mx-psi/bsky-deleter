@@ -11,7 +11,7 @@ chrono = "0.4.44"
 clap = { version = "4.5.60", features = ["derive"] }
 config = "0.15.19"
 dialoguer = "0.12.0"
-duration-str = "0.20.0"
+duration-str = "0.21.0"
 ipld-core = "0.4.3"
 serde = { version = "1.0.228", features = ["derive"] }
 tokio = { version = "1.49.0", features = ["full"] }
